@@ -12,7 +12,7 @@ public class GroupStudy1 {
     public static void reverseMethod2(String str){
 
     }
-    static void reverseMethod3(String str){
+    public static void reverseMethod3(String str){
 
     }
 
