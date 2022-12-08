@@ -1,4 +1,4 @@
-public class GroupStudy1 {
+public class GroupStudy1_Reverse {
     /*Please reverse the given String by using as many as different methods*/
     public static void main(String[] args) {
 
