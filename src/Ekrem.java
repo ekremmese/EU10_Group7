@@ -5,5 +5,6 @@ public class Ekrem {
 
         System.out.println("git");
         System.out.println("git");
+        System.out.println("git");
     }
 }
