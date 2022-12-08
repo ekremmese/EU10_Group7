@@ -23,7 +23,8 @@ public class GroupStudy1 {
     public static void reverseMethod3(String str) {
         /*StringBuffer is a peer class of String that provides much of the functionality of strings.
         * StringBuffer class is used to create mutable (modifiable) string.
-        * The StringBuffer class in java is same as String class except it is mutable i.e. it can be changed. */
+        * The StringBuffer class in java is same as String class except it is mutable i.e. it can be changed.
+        * https://www.geeksforgeeks.org/stringbuffer-class-in-java/*/
         StringBuffer temp = new StringBuffer(str);
         System.out.println(temp.reverse());
 
