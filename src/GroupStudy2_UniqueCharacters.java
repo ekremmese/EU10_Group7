@@ -3,6 +3,7 @@ public class GroupStudy2_UniqueCharacters {
 
     public static void main(String[] args) {
         uniqueCharacters1("xxxxxxabnğğğğğ");
+        System.out.println("--------------------------------------");
         System.out.println(uniqueCharacters2("poıuytrewdfghjkl"));
     }
 
