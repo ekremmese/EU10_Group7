@@ -3,6 +3,7 @@ public class GroupStudy1 {
     public static void main(String[] args) {
 
         System.out.println("Hello Group-7. Get Better Together!");
+        System.out.println("***********************************");
 
         reverseMethod1("CYDEO School");
 
