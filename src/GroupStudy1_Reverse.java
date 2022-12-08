@@ -1,8 +1,9 @@
-public class GroupStudy1 {
+public class GroupStudy1_Reverse {
     /*Please reverse the given String by using as many as different methods*/
     public static void main(String[] args) {
 
         System.out.println("Hello Group-7. Get Better Together!");
+        System.out.println("***********************************");
 
         System.out.println("***********************************");
 
